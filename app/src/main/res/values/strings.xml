@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MaRéu</string>
+    <string name="par_salle">par salle</string>
+    <string name="par_date">par date</string>
+</resources>
